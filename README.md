@@ -10,8 +10,8 @@
 📫 Contato:
 - GitHub: @andreyhenry1708
 
-## 📊 Estatísticas
+<h3>🚀 Tecnologias</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreyhenry1708&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyhenry1708&layout=compact)
+<p>
+<img src="https://skillicons.dev/icons?i=c,html,css,git,vscode" />
+</p>

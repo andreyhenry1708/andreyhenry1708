@@ -15,3 +15,5 @@
 <p>
 <img src="https://skillicons.dev/icons?i=c,html,css,git,vscode" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=andreyhenry1708&color=blue)

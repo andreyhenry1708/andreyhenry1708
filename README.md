@@ -1,21 +1,68 @@
-# Olá, eu sou Andrey Henry 👋
+<h1 align="center">Olá, eu sou Andrey Henry 👋</h1>
+
+<h3 align="center">💻 Estudante de Programação | C • HTML • CSS</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andreyhenry1708&label=Visualizações&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Sobre mim
 
 🎓 Estudante de programação
 
 💻 Atualmente aprendendo:
-- C
+- Linguagem C
 - HTML
 - CSS
 
-📫 Contato:
-- GitHub: @andreyhenry1708
-- LinkedIn: www.linkedin.com/in/andrey-pereira-63b017321
-- Instragram: @its.drey17
+🎮 Interesses:
+- Desenvolvimento Web
+- Tecnologia
 
-<h3>🚀 Tecnologias</h3>
+🎯 Objetivo:
+- Me tornar desenvolvedor Full Stack
+
+---
+
+## 🛠️ Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,html,css,git,vscode" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=andreyhenry1708&color=blue)
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreyhenry1708&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyhenry1708&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreyhenry1708&theme=tokyonight"/>
+</p>
+
+---
+
+## 📌 Projetos
+
+🔹 Projetos em C
+
+🔹 Estudos de HTML e CSS
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://github.com/andreyhenry1708">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>

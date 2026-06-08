@@ -17,5 +17,3 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=andreyhenry1708&color=blue)
-
-![Snake animation](https://github.com/andreyhenry1708/andreyhenry1708/blob/output/github-contribution-grid-snake.svg)

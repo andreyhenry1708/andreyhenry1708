@@ -9,6 +9,8 @@
 
 📫 Contato:
 - GitHub: @andreyhenry1708
+- LinkedIn: www.linkedin.com/in/andrey-pereira-63b017321
+- Instragram: @its.drey17
 
 <h3>🚀 Tecnologias</h3>
 

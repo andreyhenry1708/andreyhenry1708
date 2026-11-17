@@ -70,4 +70,11 @@
 
 ### 📊 Estatísticas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyhenry1708&layout=compact&theme=tokyonight)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andreyhenry1708&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyhenry1708&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=andreyhenry1708&theme=tokyonight" />
+</div>

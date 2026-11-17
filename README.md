@@ -70,6 +70,4 @@
 
 ### 📊 Estatísticas
 
-<p>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreyhenry1708&show_icons=true&theme=tokyonight&include_all_commits=true)
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyhenry1708&layout=compact&theme=tokyonight)
